@@ -8,7 +8,7 @@
 
 - 👨‍💻 You can find my visualizations on [https://public.tableau.com/app/profile/nagabhishek2](https://public.tableau.com/app/profile/nagabhishek2)
 
-- 📫 How to reach me **comm.nag@gmail.com**
+- 📫 How to reach me **mailmeabhishek.nag@gmail.com**
 
 - 💻 I have prior experience of Spring Microservices, RESTful APIs, Unit test cases, etc.
 
