@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm **Abhishek Nag**<br>*I consume Data to communicate Insight*<br><img align = "right" alt="Data Analyst" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif"><br><br>- 🔭 I’m currently working on **Data Analysis & Visualization** projects<br><br>- 🌱 I’m currently learning **EDA & Machine Learning**<br><br>- 👨‍💻 You can find my profile at **https://abhisheknag.carrd.co**<br><br>- 📄 You can find my resume at **https://bit.ly/abhisheknag_interactive_resume**<br><br>- 📫 How to reach me **mailmeabhishek.nag@gmail.com**<br><br>- 💻 I have prior experience with Spring Microservices, RESTful APIs, etc.
+<h1 align="center">Hi 👋, I'm Abhishek Nag</h1>
+<h3 align="center">I consume Data to communicate Insights</h3><img align = "right" alt="Data Analyst" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif"><br><br>- 🔭 I’m currently working on <b>Data Analysis & Visualization</b> projects<br><br>- 🌱 I’m currently learning <b>EDA & Machine Learning</b><br><br>- 👨‍💻 You can find my profile at <b>https://abhisheknag.carrd.co</b><br><br>- 📄 You can find my resume at <b>https://bit.ly/abhisheknag_interactive_resume</b><br><br>- 📫 How to reach me <b>mailmeabhishek.nag@gmail.com</b><br><br>- 💻 I have prior experience with Spring Microservices, RESTful APIs, etc.
 
 
 ## 🌐 Socials:
