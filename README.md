@@ -51,51 +51,21 @@ WHERE curiosity > comfort
 
 ### 🧭 The journey so far
 
-<table>
-  <tr>
-    <td align="center" width="140"><b>2016 - 2020</b><br>🎓</td>
-    <td>
-      <b>B.Tech, Computer Science</b><br>
-      <sub>Guru Nanak Dev Engineering College, Ludhiana</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Nov 2020 - Oct 2022</b><br>💻</td>
-    <td>
-      <b>Application Development Analyst</b> @ <b>Accenture</b><br>
-      <sub>
-      ▸ Built RESTful APIs and microservices for a B2B e-commerce app in Java Spring Boot, containerized with Docker<br>
-      ▸ Tuned Oracle SQL queries and schema design to clear production bottlenecks
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Jan 2023 - Present</b><br>✈️</td>
-    <td>
-      <b>Expedia Group</b>
-      <table>
-        <tr>
-          <td valign="top" width="50%">
-            <b>① Data Visualisation Engineer</b><br>
-            <sub>Product Analytics &amp; Experimentation</sub><br><br>
-            <sub>
-            ▸ Built a Supply Scorecard that became leadership's single view of key business KPIs, adopted across the organization<br>
-            ▸ Built a self-service conversion attribution tool so teams could analyze performance without waiting on analysts
-            </sub>
-          </td>
-          <td valign="top" width="50%">
-            <b>② Data Scientist II</b><br>
-            <sub>Vacation Rentals Supply Operations</sub><br><br>
-            <sub>
-            ▸ Estimated incremental revenue uplift with Difference-in-Differences regression and co-treatment adjustments<br>
-            ▸ Designed SQL attribution logic linking partner benefits to bookings, then automated it end to end with Claude Code and n8n
-            </sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+```mermaid
+timeline
+    section Education
+        2016 - 2020 : B.Tech, Computer Science
+                    : Guru Nanak Dev Engineering College
+    section Accenture
+        2020 - 2022 : Application Development Analyst
+                    : REST APIs and microservices in Spring Boot
+                    : Oracle SQL performance tuning
+    section Expedia Group, 2023 - Present
+        Data Visualisation Engineer : Supply Scorecard for leadership KPIs
+                                    : Self-service conversion attribution tool
+        Data Scientist II : Causal uplift with Difference-in-Differences
+                          : Attribution pipeline automated with Claude Code and n8n
+```
 
 <details>
 <summary><b>🔍 What I actually do all day (click to expand)</b></summary>
